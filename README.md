@@ -1,13 +1,13 @@
 # MazeSolver
 A simple java command line program that solves a maze.
 
-Input:\n
-5\n
-@S@@@@\n
-@++@@@\n
-@@+@@@\n
-@++@@@\n
-@F@@@@\n
-\n
-Output:\n
-DRDDLD\n
+Input:<br />
+5<br />
+@S@@@@<br />
+@++@@@<br />
+@@+@@@<br />
+@++@@@<br />
+@F@@@@<br />
+<br />
+Output:<br />
+DRDDLD<br />
