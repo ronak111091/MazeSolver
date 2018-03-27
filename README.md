@@ -1,10 +1,11 @@
 # MazeSolver
 A simple java command line program that solves a maze.
 
-**Note:
+Note:
 1st line of the input denotes the number of rows in the maze. <br />
 S represents start of the maze.<br />
 F represents end of the maze.
+<br />
 <br />
 
 Example
